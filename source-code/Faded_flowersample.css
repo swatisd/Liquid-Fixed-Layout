@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+ 
+body { background: #cadeb9 url(http://www.csszengarden.com/186/zenGarden.gif) no-repeat;
+       background-attachment:fixed; 
+	   font:arial normal;}
+#sidebar { width:15%;
+           height:400px;
+		   background:url(http://www.csszengarden.com/186/orange.jpg) no-repeat; 
+		   float:right;
+		   margin-right:39%; }
+.white { background:white; }
+#sidebar a:link { color:#98A892; 
+                }
+ #sidebar span{ display:block;}
+ #sidebar ul { 
+               margin-top: 93px;
+               font: 9px arial;
+               line-height: 15px;
+			    }
+ #resourcelist   { background: url(http://www.csszengarden.com/186/linkListBottom.gif) no-repeat bottom left; }
+.wholebg { background:url(http://www.csszengarden.com/186/lines2.gif) repeat-y;
+           margin-left: 16px; }
+ul#archiveslist  { margin-top:-31px; }
+#sidebar h2{ background:url(http://www.csszengarden.com/186/archives.gif) no-repeat;
+             width: 100px;
+             height: 40px;
+			 margin-left: 26px; }
+ul#resourcelist { margin-top:-31px; }
+#sidebar h3  { background:url(http://www.csszengarden.com/186/resources.gif) no-repeat;
+               width: 100px;
+               height: 40px;
+			   margin-left: 26px; }
+#mainsd {background: white url(http://www.csszengarden.com/186/lines.gif) repeat-y;
+         margin-left: -26px;
+         width: 483px; 
+		 }
+
+
+.spacing { padding:51px;
+           padding-top: 0; } }
+ 
+ #sidebar li { list-style-image: url(http://www.csszengarden.com/186/bullet.gif);
+               margin-top: 6px;} 
+ #main { background:url(http://www.csszengarden.com/186/pink.jpg) no-repeat; 
+        width:430px; 
+		height:100%;
+		margin-left: 8%;
+        padding: 2%;}
+ h2 { font-size: 1em;
+      font-style: italic;
+	  
+      color: #cadeb9;
+      font-weight:lighter;
+       }
+.sdimage { background: url (http://www.csszengarden.com/186/lines2.gif) repeat-y; }
+span { color: #C99AAD; }
+span.first a:link { color: #C99AAD; }
+.secondpara h3{ background: red ;  
+                width: 260px;
+                height: 16px; }
+.secondpara p { color: #999; }
+.thirdpara h2 { background: green ;
+                width: 260px;
+              height: 16px; }	
+.thirdpara p { color: #999; }
+.fourtpara h2 { background: blue ;
+              width: 260px;
+              height: 16px; }
+.fourtpara p { color:#999; }
+.fifthpara h2{ background: yellow ;
+              width: 260px;
+              height: 16px; }
+.fifthpara p { color:#999;}
+.fifthpara a:link { color: #cadeb9; }
+.sixthpara h2 { background: orange ;
+              width: 260px;
+              height: 16px;	}
+.sixthpara p { color:#999; }

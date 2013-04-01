@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+#css-zen-garden { background:url( http://www.csszengarden.com/186/zenGarden.gif) no-repeat #cadeb9  top  left;
+                  background-attachment: fixed; }
+#container{ width:70%;
+           background:url(http://www.csszengarden.com/186/lines.gif) repeat-y;
+		   margin-left:6%; }
+#intro { background:url(http://www.csszengarden.com/186/pink.jpg) no-repeat;
+         
+         margin-top: -1%;
+		 width:54%;
+ }
+#pageHeader { visibility: hidden; }
+#quickSummary .p1{ color: #7CAF6B;
+font-style: italic;
+font-size: 16x; 
+padding-left: 7%;
+padding-top: 12%;
+padding-right: 15%;
+}
+#quickSummary {  
+margin-left: 7%;}
